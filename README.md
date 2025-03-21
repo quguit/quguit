@@ -1,5 +1,5 @@
 ### Olá eu sou Guilherme Nascimento 👋🏽
-[![Linkedin]( 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/guilherme-nascimento-a103a9304
+[![Linkedin]( 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-nascimento-a103a9304
 )
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=quguit&show_icons=true&theme=tokyonight)
