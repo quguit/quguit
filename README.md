@@ -8,15 +8,14 @@ Atualmente desenvolvo projetos com foco em:
 - Docker, REST APIs, autenticação com OAuth2 / JWT
 - Computação Quântica com Qiskit e Manim
 
-📫 E-mail: engguilhermen@gmail.com  
-📱 Contato: (75) 9 9138-9581  
 
 ---
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-nascimento-a103a9304)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quguit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-nascimento-a103a9304)    [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quguit)
+📫 E-mail: engguilhermen@gmail.com                  📱 Contato: (75) 9 9138-9581  
+
 
 ---
 
