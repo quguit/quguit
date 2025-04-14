@@ -1,12 +1,13 @@
 ### 👋🏽 Olá, eu sou o Guilherme Nascimento
 
-Sou estudante de Engenharia de Computação com forte interesse em desenvolvimento de software, APIs modernas e computação quântica. Tenho experiência com projetos reais que envolvem integração de tecnologias, testes automatizados e visualização de dados. Estou sempre em busca de desafios que unam **código com impacto real**.
+Sou Graduando em Engenharia de Computação com  interesse em desenvolvimento de software, APIs, embarcados  e computação quântica. Tenho experiência com projetos que envolvem integração de bibliotecas, testes unitários e de integração, metodos ágeis, utilizo mais o Kanban, mas tambem uso Scrum. Estou sempre em busca de desafios que unam **código com impacto real**.
 
 Atualmente desenvolvo projetos com foco em:
 - Desenvolvimento Web Full Stack (Node.js, Django, React.js)
 - Testes unitários e de integração
 - Docker, REST APIs, autenticação com OAuth2 / JWT
-- Computação Quântica com Qiskit e Manim
+- Computação Quântica com Qiskit, Manim e IA
+- Redes neurais sem peso em sistemas Embarcados Quanticos (Tema de Monografia de Conclusão, previsto para 2026)
 
 
 ---
