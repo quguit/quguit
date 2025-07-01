@@ -1,6 +1,6 @@
 ### 👋🏽 Olá, eu sou o Guilherme Nascimento
 
-Sou Graduando em Engenharia de Computação com  interesse em desenvolvimento de software, APIs, Manchine Learning, embarcados  e computação quântica. Tenho experiência com projetos que envolvem integração de bibliotecas, testes unitários e de integração, metodos ágeis, utilizo mais o Kanban, mas tambem uso Scrum. Estou sempre em busca de desafios que unam **código com soluções inovadoras**.
+Sou Graduando em Engenharia de Computação com  foco em desenvolvimento de software, Integração de APIs, Manchine Learning, Automação, sistemas embarcados  e computação quântica. Tenho experiência com projetos de integração de bibliotecas, testes unitários e de integração, metodos ágeis, utilizo mais o Kanban, mas tambem sei Scrum. Estou sempre em busca de desafios que unam **código limpo e soluções inovadoras**.
 
 Atualmente desenvolvo projetos com foco em:
 - Desenvolvimento Web Full Stack (Node.js, Django, React.js)
